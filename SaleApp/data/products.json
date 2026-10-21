@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 18",
+    "id_cates": 1,
+    "price": 40000000,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.cQDeVAPiL8YPkyD-vlHV7AHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 2,
+    "name": "Samsung galaxy S24",
+    "id_cates": 1,
+    "price": 16000000,
+    "image": "https://www.picclickimg.com/k0sAAeSwcqNq143S/SMARTPHONE-SAMSUNG-GALAXY-S24-PLUS-5G-SM-S926B.webp"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Lenovo",
+    "id_cates": 2,
+    "price": 20000000,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.vS8qm2mFAHVzP_q0hXSsFAHaEw?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 4,
+    "name": "Laptop Asus",
+    "id_cates": 2,
+    "price": 30000000,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.CHF-Xz7_ATsZD7lfk3RuTgHaE0?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 5,
+    "name": "Máy tính Del",
+    "id_cates": 3,
+    "price": 15000000,
+    "image": "https://vitinhthuduc.com/wp-content/uploads/2024/11/bo-may-tinh-de-ban-dell-optiplex-7050sff-i5-6500-8gb-ssd240-win10-va-man-hinh-dell-22inch-vi-tinh-thu-duc-van-sy-3.png"
+  },
+  {
+    "id": 6,
+    "name": "Máy tính HP",
+    "id_cates": 3,
+    "price": 25000000,
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lv25hwljiroa67"
+  },
+  {
+    "id": 7,
+    "name": "Tablet Samsung",
+    "id_cates": 4,
+    "price": 8000000,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.3A1eiziofWn27jeSHe2shQHaE4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 8,
+    "name": "Tablet Xiaomi",
+    "id_cates": 4,
+    "price": 12000000,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.5h0OXCXJSd5jkvshZs8BAQHaFi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  }
+]
